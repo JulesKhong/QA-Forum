@@ -1,0 +1,14 @@
+body {
+  background-color: #b3b3b3;
+}
+
+.container {
+  background-color: #f7f7f7;
+  margin-top: 0;
+  height: 500px;
+  width: 66.6666666%;
+}
+
+li {
+  list-style: none;
+}

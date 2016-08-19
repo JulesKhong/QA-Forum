@@ -1,1 +1,7 @@
-{{outlet}}
+<div class="container">
+  <h3>The Questions</h3>
+  <hr>
+    {{#each model.questions as |question|}}
+      <li>{{question-tile question=question}}</li>
+    {{/each}}
+</div>
