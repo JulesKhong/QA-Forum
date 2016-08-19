@@ -2,6 +2,10 @@ body {
   background-color: #D1D1D1;
 }
 
+.answer-h3 {
+  margin-top: 0;
+}
+
 .container {
   background-color: #EEEEEE;
   margin-top: 0;
@@ -48,6 +52,7 @@ textarea:focus, input:focus {
 
 textarea {
   width: 100%;
+  border: none;
 }
 
 h3 {
@@ -57,6 +62,16 @@ h3 {
 .navbar {
   background-color: #573359;
   margin-bottom: 0;
+  color: white;
+}
+
+.navbar-brand:active {
+  color: white;
+}
+
+.responses {
+  color: #919191;
+  font-size: .75em;
 }
 
 hr {

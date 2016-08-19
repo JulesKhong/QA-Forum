@@ -1,7 +1,6 @@
-# Forum
+# Ask
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A forum to ask and answer questions using Ember, Aug 19, 2016.
 
 ## Prerequisites
 
@@ -15,7 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/JuliaDickey/QA-Forum.git` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
@@ -39,9 +38,13 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+### Known Bugs
 
-Specify what it takes to deploy your app.
+There are no known bugs. Please contact Julia if any arise.
+
+## Support and contact details
+
+For additional questions or comments, email [Julia](mailto:info@gmail.com).
 
 ## Further Reading / Useful Links
 
@@ -51,3 +54,8 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+## Technologies Used
+
+Javascript, Ember, Node, Bower, Gulp, HTML, CSS, Bootstrap
+
+Copyright (c) 2016 Julia Dickey
