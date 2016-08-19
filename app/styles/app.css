@@ -12,3 +12,7 @@ body {
 li {
   list-style: none;
 }
+
+.btn-default {
+  margin-top: 10px;
+}
