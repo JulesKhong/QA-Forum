@@ -1,12 +1,13 @@
 body {
-  background-color: #b3b3b3;
+  background-color: #D1D1D1;
 }
 
 .container {
-  background-color: #f7f7f7;
+  background-color: #EEEEEE;
   margin-top: 0;
   height: 1000px;
   width: 75%;
+  padding: 2% 5%;
 }
 
 li {
@@ -15,4 +16,54 @@ li {
 
 .btn-default {
   margin-top: 10px;
+}
+
+.col-sm-3 {
+  padding: 2% 2% 3% 2%;
+  border-radius: 20px;
+  background: #386C96;
+  color: #EEE;
+}
+
+.col-sm-12 {
+  border-top: 1px solid #ADADC7;
+  padding-top: 2%;
+  padding-bottom: 3%;
+  margin-top: 4%;
+}
+
+.author {
+  color: #573359;
+  margin-bottom: 30px;
+}
+
+input, select, textarea {
+  width: 100%;
+  color: #333;
+}
+
+textarea:focus, input:focus {
+    color: #386C96;
+}
+
+textarea {
+  width: 100%;
+}
+
+h3 {
+  margin-top: 40px;
+}
+
+.navbar {
+  background-color: #573359;
+  margin-bottom: 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #E0E0E0;
+    margin: 1em 0;
+    padding: 0;
 }
